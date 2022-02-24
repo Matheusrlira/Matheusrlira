@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus Lira
 
 
-- 🔭 Hoje trabalho com manutenção em CNC
+- 🔭 Atualmente trabalho com manutenção em máquinas CNC
 - 🌱 Estudando Python
 
 <div align="center">
