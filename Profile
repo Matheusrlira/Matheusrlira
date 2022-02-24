@@ -19,4 +19,6 @@
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="https://devicon.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" align="center" alt="Matheus-MongoDb" height="30" width="40" />
+  <a href="https://devicon.dev/" target="_blank"><<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  align="center" alt="Matheus-NodeJs" height="30" width="40"/>
+  <a href="https://devicon.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" align="center" alt="Matheus-NextJs" height="30" width="40" />
 </div>
