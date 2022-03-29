@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente trabalho com manutenção em máquinas CNC
-- 🌱 Estudando Python
+- 🌱 Estudando Java
 
 <div align="center">
   <a href="https://github.com/MatheusrLira">
